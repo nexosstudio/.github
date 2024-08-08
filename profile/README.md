@@ -34,13 +34,13 @@
 
 <h4 align="center">
   <a href="#"><img
-    alt="total GitHub stars"
-    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.github.stars.json"
+    alt="total Craftland stars"
+    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.stars.json"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
-    alt="total NPM downloads"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.npm.downloads.json"
+    alt="total Craftland downloads"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.downloads.json"
   /></a>
 </h4>
 
@@ -54,25 +54,25 @@
   <a href="https://www.instagram.com/nexoscreator"><img
     alt="Instagram"
     height="22px"
-    src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://x.com/nexoscreator"><img
     alt="Twitter"
     height="22px"
-    src="https://img.shields.io/badge/TW-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://www.youtube.com/nexoscrafting"><img
     alt="YouTube"
     height="22px"
-    src="https://img.shields.io/badge/YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://discord.com/invite/xAQzPtS5m4"><img
     alt="Discord"
     height="22px"
-    src="https://img.shields.io/badge/DC-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
+    src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
   /></a>
 </p>
 
@@ -101,7 +101,7 @@
   </a>
 </p>
 
-| &nbsp; | project | homepage | stars | last commit | downloads
+| &nbsp; | project | homepage | stars | downloads
 | :---: | :--- | --- | :--- | :--- | :--- |
-| <a href="https://github.com/vuejs"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [craft.nexoscreation.com](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/craft.nexoscreation.com/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/nexoscrafting/craft.nexoscreation.com?style=flat&label=last)](https://github.com/nexoscrafting/craft.nexoscreation.com/commits)
-| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [FF Max Od Peak Map](https://github.com/nexoscrafting/README.vue) | [`craftland`](https://github.craft.nexoscreation.com/readme-vue) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/README.vue?style=flat)](https://github.com/nexoscrafting/README.vue/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/nexoscrafting/README.vue?style=flat&label=last)](https://github.com/nexoscrafting/README.vue/commits) | - | - | - | - | -
+| <a href="https://github.com/vuejs"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/craft.nexoscreation.com/stargazers)
+| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/README.vue) | [`craftland`](https://github.craft.nexoscreation.com/readme-vue) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak.vue?style=flat)](https://github.com/nexoscrafting/README.vue/stargazers) | - | - | - | - | -
