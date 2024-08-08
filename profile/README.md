@@ -2,7 +2,7 @@
 <h1></h1>
 
 <h4 align="center">
-  <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
+  <a href="#"><img src="./../widgets/wave.svg" height="38" width="38" alt="🚀" title="🚀" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://craft.nexoscreation.com" title="craft.nexoscreation.com">
     <picture>
@@ -35,12 +35,12 @@
 <h4 align="center">
   <a href="#"><img
     alt="total GitHub stars"
-    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/nexoscrafting/release/shields.github.stars.json"
+    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.github.stars.json"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
     alt="total NPM downloads"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/nexoscrafting/release/shields.npm.downloads.json"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.npm.downloads.json"
   /></a>
 </h4>
 
@@ -101,8 +101,7 @@
   </a>
 </p>
 
-| &nbsp; | project | homepage | stars | last commit | downloads | version
-| :---: | :--- | --- | :--- | :--- | :--- | :--- |
-| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [README.vue](https://github.com/nexoscrafting/README.vue) | [`#homepage`](https://github.craft.nexoscreation.com/readme-vue) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/README.vue?style=flat)](https://github.com/nexoscrafting/README.vue/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/nexoscrafting/README.vue?style=flat&label=last)](https://github.com/nexoscrafting/README.vue/commits) | - | ![GitHub package version](https://img.shields.io/github/package-json/v/nexoscrafting/README.vue/main?style=flat&label=&labelColor=555&logo=github)
-| <a href="https://github.com/vuejs"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [craft.nexoscreation.com](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/craft.nexoscreation.com?style=flat)](https://github.com/nexoscrafting/craft.nexoscreation.com/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/nexoscrafting/craft.nexoscreation.com?style=flat&label=last)](https://github.com/nexoscrafting/craft.nexoscreation.com/commits) | - | ![GitHub package version](https://img.shields.io/github/package-json/v/nexoscrafting/craft.nexoscreation.com/main?style=flat&label=&labelColor=555&logo=github)
-| <a href="https://github.com/WordPress/WordPress#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/wordpress.light.svg" height="15px" /></a><a href="https://github.com/WordPress/WordPress#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/wordpress.dark.svg" height="15px" /></a> | [WordPress themes](https://github.com/stars/nexoscrafting/lists/wordpress) | - | - | - | - | -
+| &nbsp; | project | homepage | stars | last commit | downloads
+| :---: | :--- | --- | :--- | :--- | :--- |
+| <a href="https://github.com/vuejs"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [craft.nexoscreation.com](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/craft.nexoscreation.com/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/nexoscrafting/craft.nexoscreation.com?style=flat&label=last)](https://github.com/nexoscrafting/craft.nexoscreation.com/commits)
+| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [FF Max Od Peak Map](https://github.com/nexoscrafting/README.vue) | [`craftland`](https://github.craft.nexoscreation.com/readme-vue) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/README.vue?style=flat)](https://github.com/nexoscrafting/README.vue/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/nexoscrafting/README.vue?style=flat&label=last)](https://github.com/nexoscrafting/README.vue/commits) | - | - | - | - | -
