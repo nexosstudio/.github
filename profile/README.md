@@ -16,7 +16,7 @@
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > our community <a href="#"><img src="./../widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="28" width="28" /></a> about open source software and giving back to others.
+      > our community <a href="#"><img src="./../widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="24" width="24" /></a> about crafting, devloping and providing tutorials.
     </samp>
   </i>
 </h3>
@@ -25,7 +25,7 @@
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > My projects are trusted <a href="#"><img src="./../widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> by thousands of developers all over the world.
+      > Our projects are trusted <a href="#"><img src="./../widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> by thousands of trusted members over the world.
     </samp>
   </i>
 </h3>
@@ -102,6 +102,13 @@
 </p>
 
 | &nbsp; | project | homepage | stars | downloads
-| :---: | :--- | --- | :--- | :--- | :--- |
+| :---: | :--- | --- | :--- | :--- |
 | <a href="https://github.com/vuejs"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/craft.nexoscreation.com/stargazers)
-| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/README.vue) | [`craftland`](https://github.craft.nexoscreation.com/readme-vue) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak.vue?style=flat)](https://github.com/nexoscrafting/README.vue/stargazers) | - | - | - | - | -
+| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/README.vue) | [`craftland`](https://github.craft.nexoscreation.com/readme-vue) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak.vue?style=flat)](https://github.com/nexoscrafting/README.vue/stargazers) | - | - | - | -
+
+#
+
+📫 **Join Discord Server:**
+
+![join discord](http://invidget.switchblade.xyz/1200842022555234335)
+#
