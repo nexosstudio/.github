@@ -25,7 +25,7 @@
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > Our projects are trusted <a href="#"><img src="./../widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> by thousands of trusted members over the world.
+      > Our projects are trusted <a href="#"><img src="./../widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> by thousands of members over the world.
     </samp>
   </i>
 </h3>
@@ -35,12 +35,12 @@
 <h4 align="center">
   <a href="#"><img
     alt="total Craftland stars"
-    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.github.stars.json"
+    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.stars.json"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
     alt="total Craftland downloads"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.npm.downloads.json"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.stars.json"
   /></a>
 </h4>
 
@@ -104,12 +104,12 @@
 | &nbsp; | project | homepage | stars | downloads
 | :---: | :--- | --- | :--- | :--- |
 | <a href="https://github.com/vuejs"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/nexoscrafting/stargazers)
-| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`craftland`](https://craft.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - | - | - | -
+| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`#craftland`](https://craft.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - | - | - | -
 
 #
 
 📫 **Join Discord Server:**
 
-![join discord](http://invidget.switchblade.xyz/1200842022555234335)
+![Discord Banner](https://discord.com/api/guilds/[1200842022555234335]/widget.png?style=banner2)
 
 #

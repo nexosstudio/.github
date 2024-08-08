@@ -1,6 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 
+// Get the directory name using import.meta.url
+const __filename = new URL(import.meta.url).pathname;
+const __dirname = path.dirname(__filename);
+
 const CRAFTLAND_DATA_FILE = path.join(__dirname, './../data/craftland.json');
 
 import { CONFIG, GITHUB_ACCESS_TOKEN } from './constants.js'
