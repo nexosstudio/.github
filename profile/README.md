@@ -1,13 +1,10 @@
-
-<h1></h1>
-
 <h4 align="center">
-  <a href="#"><img src="./../widgets/wave.svg" height="38" width="38" alt="🚀" title="🚀" /></a>
+  <a href="#"><img src="./../widgets/rocket.svg" height="28" width="28" alt="🚀" title="🚀" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://craft.nexoscreation.com" title="craft.nexoscreation.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./../widgets/title-dark.svg">
-      <img alt="Welcome to Nexos Craftin!" src="./../widgets/title-light.svg">
+      <img alt="Welcome to Nexos Crafting!" src="./../widgets/title-light.svg">
     </picture>
   </a>
 </h4>
@@ -16,16 +13,17 @@
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > our community <a href="#"><img src="./../widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="24" width="24" /></a> about crafting, devloping and providing tutorials.
+      > A vibrant community <a href="#"><img src="./../widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="24" width="24" /></a> focused on crafting, developing, and sharing tutorials.
     </samp>
   </i>
 </h3>
+
 
 <h3 align="center">
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > Our projects are trusted <a href="#"><img src="./../widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> by thousands of members over the world.
+      > Join thousands of global <a href="#"><img src="./../widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> members who trust our projects
     </samp>
   </i>
 </h3>
@@ -110,6 +108,6 @@
 
 📫 **Join Discord Server:**
 
-![Discord Banner](https://discord.com/api/guilds/[1200842022555234335]/widget.png?style=banner2)
+![Discord Banner](https://discord.com/api/guilds/1200842022555234335/widget.png?style=banner2)
 
 #
