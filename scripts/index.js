@@ -1,43 +1,36 @@
 import { thousands, writeJSONToOutput } from './utils.js'
-import { getNPMAggregate, getGitHubAggregate } from './aggregates.js'
+import { getCraftlandAggregate } from './aggregates.js'
 
 try {
-  const now = new Date()
-  console.info('Generating:', now.toLocaleString(), '|', now.toString())
-  console.log()
+  const now = new Date();
+  console.info('Generating:', now.toLocaleString(), '|', now.toString());
+  console.log();
 
   // Aggregates
-  const npmData = await getNPMAggregate()
-  const githubData = await getGitHubAggregate()
+  const craftlandData = await getCraftlandAggregate();
 
-  // GitHub JSON
-  writeJSONToOutput('github.json', { ...githubData })
-
-  // NPM JSON
-  writeJSONToOutput('npm.json', {
-    packages: npmData.packages,
-    downloads: Object.fromEntries(npmData.packageDownloadsMap)
-  })
+  // Craftland JSON
+  writeJSONToOutput('craftland.json', { ...craftlandData });
 
   // shields JSON
-  writeJSONToOutput('shields.npm.downloads.json', {
+  writeJSONToOutput('shields.craftland.likes.json', {
     schemaVersion: 1,
-    label: 'Total NPM Downloads',
-    message: thousands(npmData.packageDownloadsTotal),
+    label: 'Craftland Likes',
+    message: thousands(craftlandData.likesTotal), // Craftland likes
     cacheSeconds: 3600
-  })
+  });
 
-  writeJSONToOutput('shields.github.stars.json', {
+  writeJSONToOutput('shields.craftland.stars.json', {
     schemaVersion: 1,
-    label: 'Total GitHub Stars',
-    message: thousands(githubData.statistics.stars),
+    label: 'Craftland Stars',
+    message: thousands(craftlandData.starsTotal), // Craftland stars
     cacheSeconds: 3600
-  })
+  });
 
-  console.log()
-  console.info('All generation has been completed.')
-  process.exit(0)
+  console.log();
+  console.info('All generation has been completed.');
+  process.exit(0);
 } catch (error) {
-  console.error('Generate JSON error!', error)
-  process.exit(1)
+  console.error('Generate JSON error!', error);
+  process.exit(1);
 }

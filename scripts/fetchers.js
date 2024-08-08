@@ -8,6 +8,28 @@ axios.interceptors.response.use(
   }
 )
 
+const CRAFTLAND_API_URL = 'https://craft.nexoscreation.com/api/maps/1'; // Replace with actual API URL
+
+export async function getCraftlandAggregate() {
+  try {
+    const response = await axios.get(CRAFTLAND_API_URL);
+    const data = response.data;
+
+    // Assuming the API returns an object with 'stars' and 'likes' fields
+    return {
+      starsTotal: data.totalStars || 0,
+      likesTotal: data.totalLikes || 0
+    };
+  } catch (error) {
+    console.error('Error fetching Craftland data:', error);
+    return {
+      starsTotal: 0,
+      likesTotal: 0
+    };
+  }
+}
+
+
 // https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
 export const fetchNPMPackages = async (npmUID) => {
   const response = await axios.get(`https://registry.npmjs.com/-/v1/search?text=maintainer:${npmUID}`)

@@ -1,3 +1,8 @@
+import fs from 'fs';
+import path from 'path';
+
+const CRAFTLAND_DATA_FILE = path.join(__dirname, './../data/craftland.json');
+
 import { CONFIG, GITHUB_ACCESS_TOKEN } from './constants.js'
 import {
   fetchNPMPackages,
@@ -7,6 +12,27 @@ import {
   fetchGitHubOrganizations,
   fetchGitHubRepositoryLanguages
 } from './fetchers.js'
+
+// Craftland
+// Craftland
+export const getCraftlandAggregate = async () => {
+  try {
+    // Read and parse the local JSON file
+    const data = JSON.parse(fs.readFileSync(CRAFTLAND_DATA_FILE, 'utf8'));
+
+    // Return the data with default values if keys are missing
+    return {
+      starsTotal: data.totalStars || 0,
+      likesTotal: data.totalLikes || 0
+    };
+  } catch (error) {
+    console.error('Error reading Craftland data file:', error);
+    return {
+      starsTotal: 0,
+      likesTotal: 0
+    };
+  }
+};
 
 // NPM
 export const getNPMAggregate = async () => {
