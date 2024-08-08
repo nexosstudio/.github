@@ -1,4 +1,6 @@
-<h4 align="center">
+<h1> </h1>
+
+<p align="center">
   <a href="#"><img src="./../widgets/rocket.svg" height="28" width="28" alt="🚀" title="🚀" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://craft.nexoscreation.com" title="craft.nexoscreation.com">
@@ -7,40 +9,40 @@
       <img alt="Welcome to Nexos Crafting!" src="./../widgets/title-light.svg">
     </picture>
   </a>
-</h4>
+</p>
 
-<h3 align="center">
+<p align="center">
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
       > A vibrant community <a href="#"><img src="./../widgets/heart-on-fire.webp" alt="❤️‍🔥" title="❤️‍🔥" height="24" width="24" /></a> focused on crafting, developing, and sharing tutorials.
     </samp>
   </i>
-</h3>
+</p>
 
 
-<h3 align="center">
+<p align="center">
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
       > Join thousands of global <a href="#"><img src="./../widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> members who trust our projects
     </samp>
   </i>
-</h3>
+</p>
 
 <p align="center"><samp>_</samp></p>
 
-<h4 align="center">
+<p align="center">
   <a href="#"><img
-    alt="total Craftland stars"
+    alt="total Craftland Stars"
     src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.stars.json"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
-    alt="total Craftland downloads"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.stars.json"
+    alt="total Craftland Likes"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.likes.json"
   /></a>
-</h4>
+</p>
 
 <p align="center">
   <a href="https://craft.nexoscreation.com"><img
@@ -100,9 +102,14 @@
 </p>
 
 | &nbsp; | project | homepage | stars | downloads
+
 | :---: | :--- | --- | :--- | :--- |
-| <a href="https://github.com/vuejs"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/nexoscrafting/stargazers)
-| <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`#craftland`](https://craft.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - | - | - | -
+
+| <a href="https://craft.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) 🔥 | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/nexoscrafting/stargazers)
+
+| <a href="https://craft.nexoscreation.com#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://craft.nexoscreation.com#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`#craftland`](https://craft.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers)
+
+| - | - | - | -
 
 #
 
