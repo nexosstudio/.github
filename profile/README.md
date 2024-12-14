@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#"><img src="./../widgets/rocket.svg" height="28" width="28" alt="🚀" title="🚀" /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://craft.nexoscreation.com" title="craft.nexoscreation.com">
+  <a href="https://www.nexoscrafting.live" title="craft.nexoscreation.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./../widgets/title-dark.svg">
       <img alt="Welcome to Nexos Crafting!" src="./../widgets/title-light.svg">
@@ -39,25 +39,19 @@
   /></a>
 </p>
 <p align="center">
-  <a href="https://craft.nexoscreation.com"><img
-    alt="blog"
+  <a href="https://www.nexoscrafting.live"><img
+    alt="website"
     height="22px"
-    src="https://img.shields.io/badge/BLOG-0088f5?style=for-the-badge&logoWidth=14&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAyCAYAAADcD8w1AAADX0lEQVR42u3aA4xcXxTH8TX+tm3b/ge1bUa1ba9tezfcoLYZ1LZt6/TUJ8mZ6Z3Ze96707xf8g370M9y5q0fADhZkIOgmgPtQH+EPWnDf+p7bDSpH/anwnHB2Ge+Bj0K7m4t9pLF0IuAXxs3xzyHLYO7K8QCfQF6NEa3xkLsH4DfVewtN8grMLpi3djSyBT7SQugC4BfhYt/H4AtBn4lOrHFkcl+EUZ+FbsM/P5wccybQCeIbRVyBuYvDD0S+K16xHGRwE/rt5HHBTkEOwj82iocHyONLY2cSZAlaw38DmGhiueIlcSWRM4iyNKtBH6jPTxPnBS2JHKARci/A78r2GtenC9eAlsCOVsSmakc+BV5eT5/CWzdyDkWI7+FXQV+P7PHqGMn6MSWRZZvAvBbonCsCnaiLmxdyLk2IIdjx4Bfc8zPJGwdyHnyyGydgd8+LBjz04idVFVseWS51gC/oQLX8seSq4JdFeR8G5H/B36XBN8p9MdSvMX2FrnADmRSpeufFfwxdmP7IvL72HXg963gdSl2qqfY6sjqTx+kiwF+88WuyWOneYLtCXKRAchPYaeAXyPMz0RsCt1E9QCb6wr8dtl0f/5YOrhfHwrdHtwvxgBkf2wT8BsgdV0NrzOGU2h/LAPcL9pm6BrA7zz2vKHI07EwCu0L2FOBX7pN9zNGFZlCU+xMA7E/xW4y93IT+8KG+xmrjkyhzcdOAX4zbUAep47MQ9MCsCxDsJ/FzgG/OiYj89A8drYB2H2B3zaLX6GOV0fmoU3GDsR2AL9e9j9gYJHVoRnsHJuw6wO/s9gzFiFP9AqZgTYZew7wSzIOWQM0xc618BXk1y5+pbuBfWIB8iR1ZH3QFDvPIuxs4DfFAuQIXcgU2kTsF7GLwK+6ccgC0BQ7XxB7CPDbKPxnZpECyATaLOwgbB/w6yqIHKWOLA/NYRdoxm4G/E5hTwkhR0siU2gxbC9+9Vsi9UNW4LcL5XS+gisEOu8enP4E/K5j7wsgv47dlEam0NLY+xXfnC8CfpVCn83B2DoZZAFois1gHcA+VTj2NewK8Ptf8IfgG9hmSWQKLYXNI/M1An5rpZApNnkeOVUbMknyQepf2Mse/lBthSVj87Bj2GkL33MOx36mb73aDO3kQDvQTrcADbUY5HnAMV0AAAAASUVORK5CYII="
-  /></a>
-  <span>&nbsp;</span>
-  <a href="https://www.instagram.com/nexoscreator"><img
-    alt="Instagram"
-    height="22px"
-    src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/WEBSITE-0088f5?style=for-the-badge&logoWidth=14&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAyCAYAAADcD8w1AAADX0lEQVR42u3aA4xcXxTH8TX+tm3b/ge1bUa1ba9tezfcoLYZ1LZt6/TUJ8mZ6Z3Ze96707xf8g370M9y5q0fADhZkIOgmgPtQH+EPWnDf+p7bDSpH/anwnHB2Ge+Bj0K7m4t9pLF0IuAXxs3xzyHLYO7K8QCfQF6NEa3xkLsH4DfVewtN8grMLpi3djSyBT7SQugC4BfhYt/H4AtBn4lOrHFkcl+EUZ+FbsM/P5wccybQCeIbRVyBuYvDD0S+K16xHGRwE/rt5HHBTkEOwj82iocHyONLY2cSZAlaw38DmGhiueIlcSWRM4iyNKtBH6jPTxPnBS2JHKARci/A78r2GtenC9eAlsCOVsSmakc+BV5eT5/CWzdyDkWI7+FXQV+P7PHqGMn6MSWRZZvAvBbonCsCnaiLmxdyLk2IIdjx4Bfc8zPJGwdyHnyyGydgd8+LBjz04idVFVseWS51gC/oQLX8seSq4JdFeR8G5H/B36XBN8p9MdSvMX2FrnADmRSpeufFfwxdmP7IvL72HXg963gdSl2qqfY6sjqTx+kiwF+88WuyWOneYLtCXKRAchPYaeAXyPMz0RsCt1E9QCb6wr8dtl0f/5YOrhfHwrdHtwvxgBkf2wT8BsgdV0NrzOGU2h/LAPcL9pm6BrA7zz2vKHI07EwCu0L2FOBX7pN9zNGFZlCU+xMA7E/xW4y93IT+8KG+xmrjkyhzcdOAX4zbUAep47MQ9MCsCxDsJ/FzgG/OiYj89A8drYB2H2B3zaLX6GOV0fmoU3GDsR2AL9e9j9gYJHVoRnsHJuw6wO/s9gzFiFP9AqZgTYZew7wSzIOWQM0xc618BXk1y5+pbuBfWIB8iR1ZH3QFDvPIuxs4DfFAuQIXcgU2kTsF7GLwK+6ccgC0BQ7XxB7CPDbKPxnZpECyATaLOwgbB/w6yqIHKWOLA/NYRdoxm4G/E5hTwkhR0siU2gxbC9+9Vsi9UNW4LcL5XS+gisEOu8enP4E/K5j7wsgv47dlEam0NLY+xXfnC8CfpVCn83B2DoZZAFois1gHcA+VTj2NewK8Ptf8IfgG9hmSWQKLYXNI/M1An5rpZApNnkeOVUbMknyQepf2Mse/lBthSVj87Bj2GkL33MOx36mb73aDO3kQDvQTrcADbUY5HnAMV0AAAAASUVORK5CYII="
   /></a>
   <span>&nbsp;</span>
   <a href="https://x.com/nexoscreator"><img
     alt="Twitter"
     height="22px"
-    src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/TWITTER/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.youtube.com/nexoscrafting"><img
+  <a href="https://www.youtube.com/@nexoscrafting"><img
     alt="YouTube"
     height="22px"
     src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"
@@ -74,8 +68,9 @@
 
 | 🔥 | project | homepage | stars | downloads
 | :---: | :--- | --- | :--- | :--- |
-| <a href="https://craft.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) | [`#craft.nexoscreation.com`](https://craft.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/nexoscrafting/stargazers) | - 
-| <a href="https://craft.nexoscreation.com#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://craft.nexoscreation.com#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`#craftland`](https://craft.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - 
+| <a href="https://www.nexoscrafting.live"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) | [`#www.nexoscrafting.live`](https://www.nexoscrafting.live) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/nexoscrafting/stargazers) | - 
+| <a href="https://www.nexoscrafting.live"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/bing.svg" height="13px" /></a> | [ Music Player ](https://github.com/nexoscrafting/craft.nexoscreation.com) | [`#free-fire-music`](https://nexoscrafting.github.io/free-fire-music/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/free-fire-music?style=flat)](https://github.com/nexoscrafting/free-fire-music/stargazers) | - 
+| <a href="https://www.nexoscrafting.live#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscrafting.live#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`#ff-max-craftland`](https://www.nexoscrafting.live/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - 
 | - | - | - | - | - 
 
 #

@@ -5,20 +5,11 @@
 
 ---
 
-## 📊 Craftland Statistics
-
-- **Total Craftland Stars:** `totalCraftlandStars`
-- **Total Craftland Likes:** `totalCraftlandLikes`
-
----
-
 ## 🌐 Connect With Us
 
-- **[Blog](#)**
-- **[Instagram](#)**
-- **[Twitter](#)**
-- **[YouTube](#)**
-- **[Discord](#)**
+- **[Twitter](https://twitter.com/nexoscreator)**
+- **[YouTube](https://youtube.com/@nexoscrafting)**
+- **[Discord](https://discord.gg/xAQzPtS5m4)**
 
 ---
 
@@ -26,22 +17,11 @@
 
 Show your support by becoming a sponsor:
 - [GitHub Sponsors](#)
-- [PayPal](#)
-- [BTC](#)
-- [ETH](#)
-
----
-
-## 🌍 GitHub Top Languages
-
-| Project                           | Homepage                       | Stars          | Downloads |
-|-----------------------------------|--------------------------------|-----------------|-----------|
-| Nexos Crafting Website 🔥          | [craft.nexoscreation.com](#)   | `GitHub stars`  | -         |
-| FF Max Old Peak Map                | [craftland](#)                  | `GitHub stars`  | -         |
+- [PayPal](https://paypal.me/noscreator)
 
 ---
 
 ## 📫 Join Our Discord Server
 
-[![Join Our Discord](https://img.shields.io/discord/your-discord-id.svg?style=flat-square)](https://discord.gg/your-discord-id)
+[![Join Our Discord](https://img.shields.io/discord/1200842022555234335.svg?style=flat-square)](https://discord.gg/xAQzPtS5m4)
 
