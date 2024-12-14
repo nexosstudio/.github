@@ -1,13 +1,16 @@
-<p align="center">
-  <a href="#"><img src="./../widgets/rocket.svg" height="28" width="28" alt="🚀" title="🚀" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.nexoscrafting.live" title="craft.nexoscreation.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./../widgets/title-dark.svg">
-      <img alt="Welcome to Nexos Crafting!" src="./../widgets/title-light.svg">
-    </picture>
-  </a>
-</p>
+<div align="center">
+
+  <!-- Banner -->
+  <img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/assets/images/nexos-crafting-banner.jpeg" alt="NexosCrafting" style="border-radius:6px; box-shadow: 0px 0px 20px #27D2F7;"/>
+  
+  <!-- Animated Title -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=27D2F7&background=1C1C1C&center=true&vCenter=true&width=600&lines=Welcome+to+NexosCrafting!;Innovating+Gaming+Experiences" alt="Animated Title">
+  </h1>
+</div>
+
+<!-- Neon Divider -->
+
 <p align="center">
   <a href="#" data-fix-readme-link-style></a>
   <i>
@@ -30,12 +33,12 @@
 <p align="center">
   <a href="#"><img
     alt="total Craftland Stars"
-    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.stars.json"
+    src="https://img.shields.io/endpoint?color=00FFCC&labelColor=2d333b&logo=github&logoColor=white&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.stars.json"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
     alt="total Craftland Likes"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.likes.json"
+    src="https://img.shields.io/endpoint?color=FF69B4&labelColor=2d333b&logo=npm&logoColor=white&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscrafting/.github/release/shields.craftland.likes.json"
   /></a>
 </p>
 <p align="center">
@@ -66,17 +69,24 @@
 
 ---
 
-| 🔥 | project | homepage | stars | downloads
+| 🔥 | PROJECT | HOMEPAGE | STARS | STATUS
 | :---: | :--- | --- | :--- | :--- |
-| <a href="https://www.nexoscrafting.live"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) | [`#www.nexoscrafting.live`](https://www.nexoscrafting.live) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/nexoscrafting?style=flat)](https://github.com/nexoscrafting/nexoscrafting/stargazers) | - 
-| <a href="https://www.nexoscrafting.live"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/bing.svg" height="13px" /></a> | [ Music Player ](https://github.com/nexoscrafting/craft.nexoscreation.com) | [`#free-fire-music`](https://nexoscrafting.github.io/free-fire-music/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/free-fire-music?style=flat)](https://github.com/nexoscrafting/free-fire-music/stargazers) | - 
-| <a href="https://www.nexoscrafting.live#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscrafting.live#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`#ff-max-craftland`](https://www.nexoscrafting.live/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - 
+| <a href="https://www.nexoscrafting.live"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/assets/icons/vue.svg" height="13px" /></a> | [ Nexos Crafting Website ](https://github.com/nexoscrafting/craft.nexoscreation.com) | [`#www.nexoscrafting.live`](https://www.nexoscrafting.live) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/.github?style=flat)](https://github.com/nexoscrafting/nexoscrafting/stargazers) | 🚧 In Progress
+| <a href="https://www.nexoscrafting.live"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/assets/icons/bing.svg" height="13px" /></a> | [ Music Player ](https://github.com/nexoscrafting/craft.nexoscreation.com) | [`#free-fire-music`](https://nexoscrafting.github.io/free-fire-music/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/free-fire-music?style=flat)](https://github.com/nexoscrafting/free-fire-music/stargazers) | ✅ Released
+| <a href="https://www.nexoscrafting.live#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/assets/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscrafting.live#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscrafting/.github@main/assets/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak) | [`#ff-max-craftland`](https://www.nexoscrafting.live/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscrafting/Free-Fire-Max-Craftland-Old-Peak/stargazers) | 🛠️ Beta
 | - | - | - | - | - 
 
 #
 
-📫 **Join Discord Server:**
- 
+<div align="center">
+
+<!-- Futuristic Call-to-Action -->
 [![Discord Banner](https://discord.com/api/guilds/1200842022555234335/widget.png?style=banner2)](https://discord.com/invite/xAQzPtS5m4) 
 
+<!-- <h2 style="font-family: 'Orbitron', sans-serif; color: #27D2F7;">✨ Together, We Craft the Future of Gaming ✨</h2> -->
+
+</div>
+
 #
+
+💬 Share your projects, get inspired, and create something extraordinary.
