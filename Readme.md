@@ -1,5 +1,5 @@
 
-# 🚀 Welcome to Nexos Crafting!
+# 🚀 Welcome to Nexos Studio!
 
 > A vibrant community ❤️‍🔥 focused on crafting, developing, and sharing tutorials. Join thousands of global members who trust our projects 💕.
 
@@ -7,8 +7,8 @@
 
 ## 🌐 Connect With Us
 
-- **[Twitter](https://twitter.com/nexoscreator)**
-- **[YouTube](https://youtube.com/@nexoscrafting)**
+- **[Twitter](https://twitter.com/nexosstudio)**
+- **[YouTube](https://youtube.com/@nexosstudios)**
 - **[Discord](https://discord.gg/xAQzPtS5m4)**
 
 ---
@@ -17,7 +17,7 @@
 
 Show your support by becoming a sponsor:
 - [GitHub Sponsors](#)
-- [PayPal](https://paypal.me/noscreator)
+- [PayPal](https://paypal.me/nexoscreator)
 
 ---
 
